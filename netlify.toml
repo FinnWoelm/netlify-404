@@ -1,6 +1,2 @@
 [build]
   publish     = "public"
-
-[dev]
-  publish     = "public"
-  framework   = "#static"
